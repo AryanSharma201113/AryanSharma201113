@@ -1,5 +1,15 @@
-# 💫 About Me:
-# Hi there, I'm Aryan Sharma 👋<br>🚀 Full Stack Developer | AI Enthusiast<br><br>Building scalable web applications with React, Next.js, Node.js, Express.js, and MongoDB.<br><br>💡 Passionate about Full-Stack Development, AI Solutions, and Problem Solving.<br><br>🌱 Currently learning System Design, Generative AI, and Cloud Technologies.<br><br>⚡ Turning ideas into impactful digital experiences.
+About Me
+
+Hi there, I'm Aryan Sharma 👋
+🚀 Full Stack Developer | AI Enthusiast
+
+Building scalable web applications with React, Next.js, Node.js, Express.js, and MongoDB.
+
+💡 Passionate about Full-Stack Development, AI Solutions, and Problem Solving.
+
+🌱 Currently learning System Design, Generative AI, and Cloud Technologies.
+
+⚡ Turning ideas into impactful digital experiences.
 
 
 ## 🌐 Socials:
